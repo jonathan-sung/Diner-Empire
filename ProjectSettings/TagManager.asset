@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - CustomerBubble
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Units
+  - Appliance
+  - Info Display
+  - Customer
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 2755014555
+    locked: 0
+  - name: Shadows
+    uniqueID: 4139379215
+    locked: 0
+  - name: Walls
+    uniqueID: 3005226953
+    locked: 0
+  - name: Furniture
+    uniqueID: 2624254545
+    locked: 0
+  - name: Items 1
+    uniqueID: 3939920403
+    locked: 0
+  - name: Player
+    uniqueID: 3451933327
+    locked: 0
+  - name: Foreground
+    uniqueID: 2802038679
+    locked: 0
+  - name: Items 2
+    uniqueID: 2276007909
+    locked: 0
+  - name: Labels
+    uniqueID: 22330417
+    locked: 0
+  - name: UI
+    uniqueID: 3073748251
+    locked: 0
+  - name: Info Display
+    uniqueID: 1636412935
+    locked: 0
